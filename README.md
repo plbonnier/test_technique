@@ -1,5 +1,3 @@
-Le deuxième test n'a pas pu être réalisé car l'aventurier se retrouve sur une zone interdite avec ces coordonnées et au milieu d'une zone interdite, il ne peut donc pas se déplacer.
-
 ## OBJECTIF
 Concevoir et écrire un programme java s'exécutant sur une JVM ≥ 1.8 implémentant la spécification ci-dessous.
  
